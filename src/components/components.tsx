@@ -1,8 +1,5 @@
 import React from 'react'
 import type { PropsWithChildren } from 'react'
-
-
-
 import { View, Text, StyleSheet} from 'react-native'
 
 type CurrencyButtonProps = PropsWithChildren<{

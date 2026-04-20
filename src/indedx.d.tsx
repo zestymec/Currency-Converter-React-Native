@@ -4,3 +4,4 @@ interface Currency {
     flag: string;
     symbol: string;
   }
+  declare module 'react-native-snackbar';
