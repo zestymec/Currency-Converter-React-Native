@@ -55,7 +55,7 @@ A sleek, high-performance mobile application built with **React Native** that al
 
 ## 👤 Author
 
-**Muhammad Muneeb**
+**Muhammad Umer Aziz**
 * Software Developer | IT Professional
 * [LinkedIn Profile](https://www.linkedin.com/in/zestymec/)
 
